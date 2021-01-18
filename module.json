@@ -1,0 +1,11 @@
+{
+  "name": "module-boilerplate",
+  "title": "Module Boilerplate",
+  "description": "Module boilerplate for the Foundry Virtual Tabletop framework.",
+  "author": "Chatchawan",
+  "version": "1.0.0",
+	"minimumCoreVersion": "0.7.9",
+	"scripts": [
+		"scripts/helloWorld.js"
+	]
+}
